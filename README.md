@@ -1,46 +1,55 @@
-# 📘 DSA LeetCode Solutions
+# 🚀 LeetCode DSA Solutions (C++)
 
-This repository contains my solutions to various *LeetCode problems* implemented in *C++*.  
-Each problem is stored in a separate folder with the source code and explanation.
-
----
-
-## 📂 Problem Index
-
-### Array Problems
-- [121. Best Time to Buy and Sell Stock](./121-best-time-to-buy-and-sell-stock)
-- [53. Maximum Subarray](./53-maximum-subarray)
-
-### String Problems
-- [20. Valid Parentheses](./20-valid-parentheses)
-
-### Other Topics
-- (Add more as I upload)
+This repository contains my solutions to various *LeetCode problems, implemented in **C++*.  
+Each problem is organized in a separate folder with a clean and readable solution, along with a README.md file describing the problem and approach.
 
 ---
 
-## 🚀 Languages & Tools
-- C++ (Primary Language)  
-- VS Code for development  
-- Git & GitHub for version control  
+## 📂 Folder Structure
+
+Each problem follows this structure:
+---
+
+## 🧠 Solved Problems
+
+### 🧮 Array & Math
+| #   | Problem Title                          | Link |
+|-----|----------------------------------------|------|
+| 121 | Best Time to Buy and Sell Stock        | [📁](./121-best-time-to-buy-and-sell-stock) |
+| 136 | Single Number                          | [📁](./136-single-number) |
+| 231 | Power of Two                           | [📁](./231-Power-of-Two) |
+| 50  | Pow(x, n)                              | [📁](./50-powerx-n) |
+| 66  | Plus One                               | [📁](./66-Plus-One) |
+| 9   | Palindrome Number                      | [📁](./9-Palindrome-Number) |
 
 ---
 
-## 🎯 Goal
-- Solve *450+ DSA Problems* step by step  
-- Improve *problem-solving skills*  
-- Build consistency with *daily problem uploads*
+### 🔎 Binary Search
+| #   | Problem Title                 | Link |
+|-----|-------------------------------|------|
+| 35  | Search Insert Position        | [📁](./35-Search-Insert-Position) |
+| 704 | Binary Search                 | [📁](./704-binary-search) |
 
 ---
 
-## ✨ How to Navigate
-1. Open the folder of a problem (example: 121-best-time-to-buy-and-sell-stock).  
-2. Inside each folder, you will find:
-   - solution.cpp → C++ solution code  
-   - README.md → Problem statement & explanation  
+### 🧵 Stack / String
+| #   | Problem Title         | Link |
+|-----|------------------------|------|
+| 20  | Valid Parentheses      | [📁](./20-Valid-Parentheses) |
 
 ---
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/)  
-- [GitHub](https://github.com/Tanisha-Sharma005)
+## 📌 Goals
+- ✅ Strengthen core DSA concepts
+- ✅ Practice regularly with real problems
+- ✅ Build confidence for coding interviews
+
+---
+
+## 🔗 Connect With Me
+- *LeetCode:* [My Profile](https://leetcode.com/u/Tanisha-sharma/)
+- *GitHub:* [Tanisha-Sharma005](https://github.com/Tanisha-Sharma005)
+
+---
+
+⭐ *If you find this repo useful, don't forget to star it!*
