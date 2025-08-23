@@ -15,27 +15,23 @@ Each problem follows this structure:
 ### 🧮 Array & Math
 | #   | Problem Title                          | Link |
 |-----|----------------------------------------|------|
-| 121 | Best Time to Buy and Sell Stock        | [📁](./121-best-time-to-buy-and-sell-stock) |
-| 136 | Single Number                          | [📁](./136-single-number) |
-| 231 | Power of Two                           | [📁](./231-Power-of-Two) |
-| 50  | Pow(x, n)                              | [📁](./50-powerx-n) |
-| 66  | Plus One                               | [📁](./66-Plus-One) |
-| 9   | Palindrome Number                      | [📁](./9-Palindrome-Number) |
+| 121 | Best Time to Buy and Sell Stock | [📂](./LeetCode/121-best-time-to-buy-and-sell-stock) |
+| 136 | Single Number                   | [📂](./LeetCode/136-single-number) |
+| 231 | Power of Two                    | [📂](./LeetCode/231-Power-of-Two) |
+| 50  | Pow(x, n)                       | [📂](./LeetCode/50-powerx-n) |
+| 66  | Plus One                        | [📂](./LeetCode/66-Plus-One) |
+| 9   | Palindrome Number               | [📂](./LeetCode/9-Palindrome-Number) |
 
----
+### Binary Search
+| # | Problem Title | Link |
+|---|---------------|------|
+| 35  | Search Insert Position | [📂](./LeetCode/35-Search-Insert-Position) |
+| 704 | Binary Search          | [📂](./LeetCode/704-binary-search) |
 
-### 🔎 Binary Search
-| #   | Problem Title                 | Link |
-|-----|-------------------------------|------|
-| 35  | Search Insert Position        | [📁](./35-Search-Insert-Position) |
-| 704 | Binary Search                 | [📁](./704-binary-search) |
-
----
-
-### 🧵 Stack / String
-| #   | Problem Title         | Link |
-|-----|------------------------|------|
-| 20  | Valid Parentheses      | [📁](./20-Valid-Parentheses) |
+### Stack / String
+| # | Problem Title | Link |
+|---|---------------|------|
+| 20  | Valid Parentheses | [📂](./LeetCode/20-Valid-Parentheses) |
 
 ---
 
