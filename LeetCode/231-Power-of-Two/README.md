@@ -27,4 +27,17 @@ Output: false
 ## Approach
 - A number n is a power of two if *only one bit is set in its binary representation*.  
 - Using the property:  
--
+- Also check n > 0 because negative numbers and 0 cannot be powers of two.  
+
+---
+
+## C++ Solution
+
+```cpp
+class Solution {
+public:
+  bool isPowerOfTwo(int n) {
+      if (n <= 0) return false;
+      return (n & (n - 1)) == 0;
+  }
+};
